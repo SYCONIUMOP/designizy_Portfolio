@@ -1,0 +1,30 @@
+/* Jai Shree Ram */
+
+@font-face {
+    font-family: "bevellierRegular";
+    src: url(../fonts/Bevellier-Regular.woff2);
+}
+
+
+@font-face {
+    font-family: "bevellierMedium";
+    src: url(../fonts/Bevellier-Medium.woff2);
+}
+
+
+@font-face {
+    font-family: "bevellierSemiBold";
+    src: url(../fonts/Bevellier-Semibold.woff2);
+}
+
+
+@font-face {
+    font-family: "popinsRegular";
+    src: url(../fonts/Poppins-Regular.woff2);
+}
+
+
+@font-face {
+    font-family: "popinsSemiBold";
+    src: url(../fonts/Poppins-SemiBold.woff2);
+}
